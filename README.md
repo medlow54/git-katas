@@ -1,5 +1,5 @@
 ---
-maintainer: randomsort
+Ruth's maintainer: randomsort
 ---
 # Git Katas
 
